@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c49f452ed4554b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebe007ef01763c1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian使用指导/Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "549728afa8665144",
+    "type": "split",
+    "children": [
+      {
+        "id": "033ae2f1e50963b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5ff0e0d585f3e5a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "44bb60e12255d16f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nvm",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ba01e87c55f82d77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "99beb49720e721d1",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "right": {
+    "id": "c4a18a579669a3a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3031863146c22a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae11f374a968eba8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian使用指导/HOME.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "HOME 的反向链接列表"
+            }
+          },
+          {
+            "id": "d081380807afffd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian使用指导/Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Git 的出链列表"
+            }
+          },
+          {
+            "id": "07f33e2ceaa15e98",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "93a37cae068a1da6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar-view",
+              "state": {},
+              "icon": "lucide-calendar-check",
+              "title": "日历"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open Google Calendar": false,
+      "homepage:Open homepage": false,
+      "obsidian-memos:Thino": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian42-brat:BRAT": true,
+      "i18n:I18N": true,
+      "markdown-importer:打开 Markdown 格式转换器": true,
+      "obsidian-file-cleaner:清理文件": true,
+      "pkmer:Open Pkmer Market": true,
+      "markdown-table-editor:打开Markdown表格编辑器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-spaced-repetition:复习卡片": true,
+      "templater-obsidian:Templater": false,
+      "mantou-ai:Open menu": false,
+      "switcher:打开快速切换": true,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": true,
+      "workspaces:管理工作区布局": true,
+      "obsidian-day-planner:Timeline": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:打开Git源代码管理": false
+    }
+  },
+  "active": "ebe007ef01763c1b",
+  "lastOpenFiles": [
+    "obsidian使用指导/主题.md",
+    "obsidian使用指导/插件.md",
+    "obsidian使用指导/Git.md",
+    "obsidian使用指导/HOME.md",
+    "天行健/日记/2024-11/2024-11-12.md",
+    "前端基础/2-CSS/01-CSS.md",
+    "custom-icons.zip",
+    "obsidian使用指导/附件/Pasted image 20241111191844.png",
+    "前端基础/Work Learn/工作笔记/提效工具.md",
+    "天行健/日记/2024-11/2024-11-04.md",
+    "前端基础/Work Learn/工作笔记/知识篇(需求补充).md",
+    "前端基础/正则表达式/基本概念、创建.md",
+    "天行健/摄影学习/摄影技巧/万圣节.md",
+    "obsidian使用指导/WechatIMG9.jpg",
+    "obsidian使用指导/附件/WechatIMG9 1.jpg",
+    "obsidian使用指导/附件",
+    "前端基础/2-CSS/知识点/常用布局.md",
+    "前端基础/2-CSS/知识点/CSS 常见问题.md",
+    "前端基础/2-CSS/05-css选择器.md",
+    "前端基础/2-CSS/04-BFC.md",
+    "前端基础/2-CSS/03-Flex弹性布局.md",
+    "Excalidraw/Drawing 2023-05-02 19.50.42.excalidraw.md",
+    "前端基础/VUE3+TS/vue3-尚硅谷/00-Vue3快速上手.md",
+    "前端基础/2-CSS/07-CSS3新特性.md",
+    "业务逻辑/网点.md",
+    "前端基础/2-CSS/06-性能优化相关.md",
+    "前端基础/2-CSS/知识点/CSS基础.md",
+    "前端基础/2-CSS/知识点/格式化上下文.md",
+    "前端基础/2-CSS/知识点/附件/Pasted image 20241105104426.png",
+    "前端基础/2-CSS/02-水平垂直居中.md",
+    "前端基础/2-CSS/知识点/附件/Pasted image 20241103200859.png",
+    "前端基础/历史图片/Pasted image 20231002155459.png",
+    "天行健/日记/2024-11/2024-11-03.md",
+    "天行健/日记/2024-11",
+    "前端基础/2-CSS/知识点/附件/Pasted image 20241102204828.png",
+    "前端基础/Work Learn/用户代码片段.md",
+    "前端基础/Work Learn/附件/Pasted image 20241029000908.png",
+    "前端基础/Work Learn/附件",
+    "前端基础/2-CSS/知识点/附件/Pasted image 20241024162540.png",
+    "前端基础/2-CSS/知识点/附件/Pasted image 20241023195129.png",
+    "业务逻辑",
+    "python",
+    "前端基础/2-CSS/知识点/附件",
+    "前端基础/2-CSS/知识点",
+    "custom-icons",
+    "天行健/摄影学习/摄影技巧",
+    "前端基础/VUE3+TS/vue3-尚硅谷/未命名.canvas",
+    "生活/日记/未命名.canvas",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "Work Learn/未命名.canvas"
+  ]
+}

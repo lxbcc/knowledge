@@ -1,0 +1,14 @@
+{
+  "accentColor": "#a34fba",
+  "theme": "system",
+  "textFontFamily": "Charter",
+  "cssTheme": "Border",
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "custom-admonitions.186b35"
+  ],
+  "interfaceFontFamily": "Chalkboard",
+  "translucency": false,
+  "nativeMenus": true,
+  "baseFontSizeAction": true
+}

@@ -1,0 +1,11 @@
+{
+    "id": "obsidian-day-planner",
+    "name": "Day Planner",
+    "version": "0.24.0",
+    "minAppVersion": "0.16.0",
+    "description": "用户界面简洁、语法易读的一日计划表",
+    "author": "James Lynch, continued by Ivan Lednev",
+    "authorUrl": "https://github.com/ivan-lednev",
+    "fundingUrl": "https://www.buymeacoffee.com/machineelf",
+    "isDesktopOnly": false
+}

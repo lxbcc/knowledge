@@ -1,0 +1,9 @@
+{
+  "showAllNumbers": true,
+  "filterList": [
+    "md"
+  ],
+  "blacklist": false,
+  "addRootFolder": false,
+  "filterFolderNote": true
+}

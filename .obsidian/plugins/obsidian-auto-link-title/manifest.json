@@ -1,0 +1,10 @@
+{
+    "id": "obsidian-auto-link-title",
+    "name": "Auto Link Title",
+    "version": "1.5.4",
+    "minAppVersion": "0.12.17",
+    "description": "自动提取，网页链接的标题",
+    "author": "Matt Furden",
+    "authorUrl": "https://github.com/zolrath",
+    "isDesktopOnly": false
+}
